@@ -1,0 +1,1 @@
+-- SQL query for customer retention analysis
