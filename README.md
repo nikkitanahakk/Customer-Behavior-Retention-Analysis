@@ -17,3 +17,10 @@ Industry-agnostic customer retention and revenue analysis using SQL, Python, and
 - SQL
 - Jupyter Notebook
 - GitHub
+## SQL Analysis
+SQL queries were written to analyze:
+- Revenue by country
+- Top products by sales
+- Customer repeat purchase behavior
+
+SQL files are available in the `sql/` folder.
