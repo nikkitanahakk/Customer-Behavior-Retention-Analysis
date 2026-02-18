@@ -24,3 +24,10 @@ SQL queries were written to analyze:
 - Customer repeat purchase behavior
 
 SQL files are available in the `sql/` folder.
+## Retention Analysis
+
+### Cohort Analysis (Python)
+Performed cohort-based customer retention analysis using first purchase month to identify repeat buying behavior over time.
+
+### Retention Analysis (SQL)
+Used SQL queries to classify customers into one-time and repeat buyers based on invoice frequency.
